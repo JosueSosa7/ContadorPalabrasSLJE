@@ -122,7 +122,7 @@ color: rgb(0, 85, 0);
 border: 2px solid #17630b;</string>
     </property>
     <property name="text">
-     <string>Palabras:</string>
+     <string>Palabras: 0</string>
     </property>
    </widget>
    <widget class="QLabel" name="tvCaracteres">
@@ -146,7 +146,7 @@ color: rgb(0, 85, 0);
 border: 2px solid #17630b;</string>
     </property>
     <property name="text">
-     <string>Caracteres:</string>
+     <string>Caracteres: 0</string>
     </property>
    </widget>
   </widget>
